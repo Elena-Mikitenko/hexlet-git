@@ -1,3 +1,4 @@
 No code No pain
-hey you!
-experiment witn amend
+Hey man!
+git is good
+experiment with amend
